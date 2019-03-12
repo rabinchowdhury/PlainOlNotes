@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_9fc5699176f4ac2dbec62e1f24683744ee9f8d41.jar" />
+    </item>
+    <item
+        jar="/Users/rabin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0_ffa6315e470df7099c212a2239260dff815fae31.jar" />
+    </item>
+    <item
+        jar="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/pre-dexed/debug/com.github.markushi-circlebutton-1.1_de665cb899fd6e9a837a9d44229406bc68c759e1.jar" />
+    </item>
+    <item
+        jar="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.0.0_ca8693c037657c38a77ecac88f85c015186cb419.jar" />
+    </item>
+    <item
+        jar="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/rabin/Downloads/Ex_Files_NoteTaking_Android/Exercise Files/06_Finalize/PlainOlNotes/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0_e9e3e9c0212bdcef4e3f5f707fa7f1d6207fef09.jar" />
+    </item>
+
+</items>
